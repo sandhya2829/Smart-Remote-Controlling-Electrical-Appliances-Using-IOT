@@ -27,7 +27,7 @@ This project enables smart and remote control of electrical appliances (like lig
 
 ##  Relay Module Pinout
 
-![Relay Module Pinout](images/relay_pinout.png)
+![Relay Module Pinout](images/Picture1.jpg)
 
 - Each relay supports Normally Open (NO), Normally Closed (NC), and Common terminals.
 - Controlled via IN1, IN2, IN3, IN4 from NodeMCU digital pins.
@@ -37,10 +37,10 @@ This project enables smart and remote control of electrical appliances (like lig
 ## 📸 Hardware Setup (Prototype Images)
 
 ### Initial Setup (with bulbs & relay):
-![Prototype Setup 1](images/prototype_setup_1.png)
+![Prototype Setup 1](images/Picture2.jpg)
 
 ### Final Working Model (All bulbs ON):
-![Prototype Setup 2](images/prototype_setup_2.png)
+![Prototype Setup 2](images/Picture3.jpg)
 
 ---
 
